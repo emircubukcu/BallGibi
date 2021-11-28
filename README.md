@@ -1,7 +1,7 @@
 # BallGibi
 Unity WebGl oyunu
 ## Oyunu Oynamak İçin
-Oyunu oynamak için [buradan](https://simmer.io/@cubukcuemir/ballgibi)ulaşabilirsiniz.
+Oyunu oynamak için [buradan](https://simmer.io/@cubukcuemir/ballgibi) ulaşabilirsiniz.
 Veya [burdaki](https://drive.google.com/drive/folders/1t4kjhLeVABI20pBHBnHvZ7J3xc1DuQFn?usp=sharing) linkde bulunan zip dosyasını indirip kendi Unity Projelerinize ekleyebilirsiniz.
 
 
