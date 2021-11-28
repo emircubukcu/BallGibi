@@ -18,4 +18,5 @@ Oyun bittiğinde ise tekrar oynayabilir ya da ana menüye dönebilirsiniz.
 
 ##
 Emir Çubukçu 19360859052 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
+##
 İbrahim Yahya Aydınlı 18360859055 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
