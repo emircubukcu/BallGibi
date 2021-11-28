@@ -15,3 +15,6 @@ Başlangıçtaki alandan aldığımız güç kaynağını en kısa yoldan bitiş
 Yolda bulunan duvarlara çarparak kendinize yol açabilir veya aralardaki boşlukları kullanarak kendinize göre bir rota çizebilirsiniz.
 ![alt text](https://github.com/emircubukcu/BallGibi/blob/main/Oyun%C4%B0%C3%A7i/postGame2.PNG)
 Oyun bittiğinde ise tekrar oynayabilir ya da ana menüye dönebilirsiniz.
+
+##
+Emir Çubukçu 19360859052 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
