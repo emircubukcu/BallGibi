@@ -19,6 +19,7 @@ Oyun bittiğinde ise tekrar oynayabilir ya da ana menüye dönebilirsiniz.
 [Asset1](https://assetstore.unity.com/packages/2d/textures-materials/cyberpunk-material-pack-six-high-quality-materials-188067)
 [Asset2](https://assetstore.unity.com/packages/3d/environments/sci-fi/hitech-scifi-energy-cell-154526)
 [Asset3](https://assetstore.unity.com/packages/2d/textures-materials/brick/pbr-brick-material-free-161772)
+[Asset4](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/simple-modular-human-100162)
 ##
 Emir Çubukçu 19360859052 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
 ##
