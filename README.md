@@ -24,7 +24,9 @@ Oyun bittiğinde ise tekrar oynayabilir ya da ana menüye dönebilirsiniz.
 [Level müziği](https://freesound.org/people/BloodPixelHero/sounds/611463/) |
 [Ana menü müziği](https://freesound.org/people/orginaljun/sounds/531961/)  |
 [Puan Alma sesi](https://freesound.org/people/ProjectsU012/sounds/341695/) |
-[Topu alma sesi](https://freesound.org/people/EminYILDIRIM/sounds/536074/) 
+[Topu alma sesi](https://freesound.org/people/EminYILDIRIM/sounds/536074/) |
+[Font](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)|
+[Gökyüzü Paketi](https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004)
 ##
 Emir Çubukçu 19360859052 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
 ##
