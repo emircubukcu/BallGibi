@@ -22,6 +22,9 @@ Oyun bittiğinde ise tekrar oynayabilir ya da ana menüye dönebilirsiniz.
 [Asset4](https://assetstore.unity.com/packages/3d/characters/humanoids/humans/simple-modular-human-100162)
 
 [Level müziği](https://freesound.org/people/BloodPixelHero/sounds/611463/)
+[Ana menü müziği](https://freesound.org/people/orginaljun/sounds/531961/)
+[Puan Alma sesi](https://freesound.org/people/ProjectsU012/sounds/341695/)
+[Topu alma sesi](https://freesound.org/people/EminYILDIRIM/sounds/536074/)
 ##
 Emir Çubukçu 19360859052 Bursa Teknik Üniversitesi Bilgisayar Mühendisliği Oyun Programlama
 ##
