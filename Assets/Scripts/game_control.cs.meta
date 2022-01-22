@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e2538ebb8f688b546a1bac59d277c98f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - score: {instanceID: 0}
+  - ballPrefab: {fileID: 2238329745304190631, guid: d60f129666517784b802b2629eecc23e, type: 3}
+  - player: {fileID: 1216358655032463637, guid: d40fbad0eea4a814980f971453f3d2bd, type: 3}
+  - RefCube: {instanceID: 0}
+  - topSesi: {instanceID: 0}
+  - puanSesi: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
